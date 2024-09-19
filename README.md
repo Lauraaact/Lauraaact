@@ -7,7 +7,7 @@
 - 🎓 Ingeniera biomédica
 - 💻 Inclinación hacia el desarrollo web y la automatización
 - 🫡 Actualmente aprendiendo desarrollo web
-- Buscando nuevas oportunidades de trabajo. 
+- 💼 Buscando nuevas oportunidades de trabajo. 
 
 ## 🚀 Habilidades
 
