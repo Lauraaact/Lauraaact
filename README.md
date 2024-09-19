@@ -15,6 +15,7 @@
 - **Frameworks & Librerías**: Express.js/ Angular / Node.js
 - **Herramientas & Tecnologías**: Git
 - **Bases de Datos**: MongoDB
+- **Automatización RPA**: UiPath
 
 ## 📫 Contacto 
 
