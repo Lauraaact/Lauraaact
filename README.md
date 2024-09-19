@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi GitHub! Aquí encontrarás una colección de mis proyectos, habilidades y experiencia en desarrollo.
 
-### 🧑‍💻 Sobre Mí
+## 🧑‍💻 Sobre Mí
 
 - 🎓 Ingeniera biomédica
 - 💻 Inclinación hacia el desarrollo web y la automatización
