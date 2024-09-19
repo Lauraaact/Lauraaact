@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi there 👋, soy Laura Corredor
+
+¡Bienvenido a mi GitHub! Aquí encontrarás una colección de mis proyectos, habilidades y experiencia en desarrollo.
+
+### 🧑‍💻 Sobre Mí
+
+🎓 Ingeniera biomédica
+😎 Inclinación hacia el desarrollo web y la automatización
+
+## 🚀 Habilidades
+
+- **Lenguajes de Programación**: Visual Basic.NET / C++ / Python / JavaScript / TypeScript
+- **Frameworks & Librerías**: Express.js/ Angular / Node.js
+- **Herramientas & Tecnologías**: Git
+- **Bases de Datos**: MongoDB
+
+## 📫 Contacto 
+
+Puedes contactarme a través de los siguientes medios:
+- **Correo electrónico**: lauracorredort99@gmail.com
+- **LinkedIn**: www.linkedin.com/in/lauracorredort
 
 <!--
 **Lauraaact/Lauraaact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
