@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Laura Corredor </h1>
 
-¡Bienvenido a mi GitHub! Aquí encontrarás una colección de mis proyectos, habilidades y experiencia en desarrollo.
+<p align="center">¡Bienvenido a mi GitHub! Aquí encontrarás una colección de mis proyectos, habilidades y experiencia en desarrollo.</p>
 
 ## 🧑‍💻 Sobre Mí
 
