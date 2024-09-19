@@ -4,8 +4,10 @@
 
 ### 🧑‍💻 Sobre Mí
 
-🎓 Ingeniera biomédica
-😎 Inclinación hacia el desarrollo web y la automatización
+- 🎓 Ingeniera biomédica
+- 💻 Inclinación hacia el desarrollo web y la automatización
+- 🫡 Actualmente aprendiendo desarrollo web
+- Buscando nuevas oportunidades de trabajo. 
 
 ## 🚀 Habilidades
 
