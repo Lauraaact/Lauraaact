@@ -6,7 +6,7 @@
 
 - 🎓 Ingeniera biomédica
 - 💻 Inclinación hacia el desarrollo web y la automatización
-- 🫡 Actualmente aprendiendo desarrollo web
+- 🫡 Actualmente aprendiendo desarrollo web MEAN stack 
 - 💼 Buscando nuevas oportunidades de trabajo. 
 
 ## 🚀 Habilidades
